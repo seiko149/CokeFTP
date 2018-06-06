@@ -1,0 +1,6 @@
+c:\users\Tavano\documents\visual studio 2010\Projects\CokeFTP\CokeFTP\bin\Debug\CokeFTP.exe
+c:\users\Tavano\documents\visual studio 2010\Projects\CokeFTP\CokeFTP\bin\Debug\CokeFTP.pdb
+c:\users\Tavano\documents\visual studio 2010\Projects\CokeFTP\CokeFTP\bin\Debug\Renci.SshNet.dll
+c:\users\Tavano\documents\visual studio 2010\Projects\CokeFTP\CokeFTP\obj\x86\Debug\CokeFTP.csprojResolveAssemblyReference.cache
+c:\users\Tavano\documents\visual studio 2010\Projects\CokeFTP\CokeFTP\obj\x86\Debug\CokeFTP.exe
+c:\users\Tavano\documents\visual studio 2010\Projects\CokeFTP\CokeFTP\obj\x86\Debug\CokeFTP.pdb
